@@ -1,6 +1,6 @@
 # Mod Organizer Elder Scrolls — Offline Setup Assistant
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](#)
+[![Download](https://img.shields.io/badge/Download-blueviolet)](#)
 [![Version](https://img.shields.io/badge/Version-2.5.2-green)](#)
 [![Platform](https://img.shields.io/badge/Platform-Windows-blue)](#)
 
