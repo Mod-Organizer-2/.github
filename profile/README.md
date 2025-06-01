@@ -49,7 +49,7 @@ Professional deployment assistant for Mod Organizer Elder Scrolls edition, desig
 
 ![Mod Organizer Main Interface](https://staticdelivery.nexusmods.com/mods/1704/images/headers/38490_1595276167.jpg)
 
-![Profile Management System](https://images.sftcdn.net/images/t_app-cover-s,f_auto/p/efaeaf0e-7e53-43de-863c-cce704c866aa/2858294965/mo-organizer-2-for-skyrim-screenshot.png)
+![Profile Management System](https://i.imgur.com/DLm24Tc.png)
 
 ## 🔧 System Requirements
 
