@@ -3,7 +3,6 @@
 [![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](#)
 [![Version](https://img.shields.io/badge/Version-2.5.2-green)](#)
 [![Platform](https://img.shields.io/badge/Platform-Windows-blue)](#)
-[![Status](https://img.shields.io/badge/Status-Enterprise_Ready-success)](#)
 
 ## 📋 Overview
 
@@ -50,8 +49,7 @@ Professional deployment assistant for Mod Organizer Elder Scrolls edition, desig
 
 ![Mod Organizer Main Interface](https://staticdelivery.nexusmods.com/mods/1704/images/headers/38490_1595276167.jpg)
 
-![Profile Management System](https://staticdelivery.nexusmods.com/mods/1704/images/thumbnails/18589/18589-1531671424-1124909665.png)
-*Advanced profile system for managing different mod configurations*
+![Profile Management System](https://images.sftcdn.net/images/t_app-cover-s,f_auto/p/efaeaf0e-7e53-43de-863c-cce704c866aa/2858294965/mo-organizer-2-for-skyrim-screenshot.png)
 
 ## 🔧 System Requirements
 
